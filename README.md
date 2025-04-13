@@ -1,6 +1,6 @@
 # Projetos do 2° Semestre da Faculdade 🎓
 
-Este repositório contém os projetos desenvolvidos durante o segundo semestre da minha graduação, focados nas linguagens **C** e **C++**. Eles abrangem desde conceitos básicos até implementações mais complexas, com ênfase em lógica de programação e estruturas de dados.
+Projetos desenvolvidos durante o segundo semestre da minha graduação, focados nas linguagens **C** e **C++**. Eles abrangem desde conceitos básicos até implementações mais complexas, com ênfase em lógica de programação e estruturas de dados.
 
 ## 📁 Projetos
 
@@ -13,7 +13,7 @@ Este repositório contém os projetos desenvolvidos durante o segundo semestre d
 ## 💻 Tecnologias e ferramentas utilizadas
 
 - **Linguagens**: C, C++
-- **Ferramentas**: GCC, Visual Studio Code, DevC++, entre outras.
+- **Ferramentas**:Visual Studio Code, DevC++, onlineGDB entre outras.
 - **Git** e **GitHub** para versionamento de código.
 
 ## 📚 Disciplinas relacionadas
@@ -21,6 +21,7 @@ Este repositório contém os projetos desenvolvidos durante o segundo semestre d
 - Programação em C
 - Programação em C++
 - Estruturas de Dados
+- POO
 - Algoritmos
 
 ## ✨ Objetivo
@@ -29,6 +30,6 @@ Este repositório tem como objetivo armazenar e versionar os projetos desenvolvi
 
 ---
 
-*Desenvolvido por [Seu Nome]*  
+*Desenvolvido por Milena :)*  
 📧 milenalazzaretti29@gmail.com
 
