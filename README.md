@@ -1,9 +1,5 @@
 # Projetos do 2° Semestre 
 
-
-
-## Projetos
-
 - **Projetos em C**  
   Inclui implementações de algoritmos, manipulação de dados e resolução de problemas utilizando a linguagem C.
 
